@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "https://keromatsu12.github.io/csb-42rfop/static/css/main.fc5c2c69.css",
+    "main.js": "https://keromatsu12.github.io/csb-42rfop/static/js/main.3a6941bc.js",
+    "index.html": "https://keromatsu12.github.io/csb-42rfop/index.html",
+    "main.fc5c2c69.css.map": "https://keromatsu12.github.io/csb-42rfop/static/css/main.fc5c2c69.css.map",
+    "main.3a6941bc.js.map": "https://keromatsu12.github.io/csb-42rfop/static/js/main.3a6941bc.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.fc5c2c69.css",
+    "static/js/main.3a6941bc.js"
+  ]
+}
